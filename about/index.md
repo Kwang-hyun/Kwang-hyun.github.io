@@ -1,17 +1,17 @@
 ---
 layout: page
-title: About the Kwanghyun Choi
-tags: [Choi]
+title: About Kwanghyun Choi
+tags: [Choi, Javis]
 date: 2016-03-21
 comments: false
 ---
 
 <center><a href="https://kwang-hyun.github.io/"><b>Choi</b></a>'s major is software engineering and data science.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
+## History
+* Admission to the Department of Aerospace and Software Engineering at Gyeongsang National University (2016)
+* Start multiple majors with data science convergence major (2020)
+* President of the <b href="https://javis-gnu.github.io/"><c>Javis</c></b> Club. (2020)
 * Syntax highlighting
 * Optional post image
 * Social icons
