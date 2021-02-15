@@ -11,7 +11,7 @@ comments: false
 ## History
 * Admission to the Department of Aerospace and Software Engineering at Gyeongsang National University (2016)
 * Start multiple majors with data science convergence major (2020)
-* President of the <b href="https://javis-gnu.github.io/"><c>Javis</c></b> Club. (2020)
+* President of the <a href="https://javis-gnu.github.io/"><b>Javis</b></a> Club. (2020)
 * Syntax highlighting
 * Optional post image
 * Social icons
