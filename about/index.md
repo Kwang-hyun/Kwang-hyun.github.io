@@ -20,8 +20,9 @@ comments: false
     https://raw.githubusercontent.com/Kwang-hyun/Kwang-hyun.github.io/master/Javis.JPG
     https://github.com/Kwang-hyun/Kwang-hyun.github.io/blob/master/Paper.JPG?raw=true
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Screenshots of Javis homepage and Paper" cols=2 %}
 
+<!--
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## Getting Started
@@ -29,3 +30,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
 
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+-->
