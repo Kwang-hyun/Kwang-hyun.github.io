@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Kwanghyun Choi
-tags: [Choi, Javis]
+tags: [Choi, Javis, A Multi-label Classification Bot for Issue Management, KCSE2021]
 date: 2016-03-21
 comments: false
 ---
@@ -12,13 +12,7 @@ comments: false
 * Admission to the Department of Aerospace and Software Engineering at Gyeongsang National University (2016)
 * Start multiple majors with data science convergence major (2020)
 * President of the <a href="https://javis-gnu.github.io/"><b>Javis</b></a> Club. (2020)
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* Received Best General Paper Award for '<a href="http://kcse2021.userinsight.co.kr/static/book/KCSE2021tocv7.pdf"><b>A Multi-label Classification Bot for Issue Management</b></a>' in <a href="http://kcse2021.userinsight.co.kr/"><b>KCSE2021</b></a>.
 
 ## Preview
 
